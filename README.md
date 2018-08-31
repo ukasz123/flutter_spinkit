@@ -186,6 +186,13 @@ For more info, please, refer to the `showcase.dart` in the example.
       <br />
       ✅
     </td>
+    <td align="center">
+      <img src="./screenshots/pouring-hourglass.gif" width="100px">
+      <br />
+      PouringHourglass
+      <br />
+      ✅
+    </td>
   </tr>
 </table>
 
